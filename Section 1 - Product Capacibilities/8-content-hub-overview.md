@@ -16,5 +16,3 @@ Uma questão clássica de certificação colocará você diante de um cenário d
 | Público-Alvo    |               Equipes de negócios, parceiros comerciais, e usuários não-criativos que precisam buscar e gerar variações                | Clientes ou parceiros externos que precisam estritamente de um portal de autoatendimento para pesquisar e baixar mídias                               |
 | Edição e Remix  | Sim. Integra-se nativamente com o Adobe Express e Adobe Firefly para permitir modificações rápidas mantendo a conformidade com a marca | Não. É uma ferramenta estritamente voltada para compartilhamento, download e visualização de arquivos, sem capacidades de edição generativa ou remix. |
 | Desenvolvimento |      Mínimo/Out-of-the-box. Ativado via Cloud Manager e configurado de forma visual por um administrador pelo console de autoria       | Alto. Por ser uma aplicação aberta, exige intervenção de equipes de desenvolvimento para construir, implantar e customizar layouts                    |
-
-|

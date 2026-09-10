@@ -16,8 +16,8 @@ Essas propriedades estão distribuídas em varias tabs, algumas das quais podem 
 ### Aba Avançada (Advanced Tab)
 
 - **Language Root**: Deve ser marcada se a página em questão for o ponto de partida (raiz) de uma **copia de idioma (Language Copy)**.
-- **Alias**: Cria a propriedade sling:alias no nó da página no repositório. -**Template Settings (Allowed Templates)**: Limita quais modelos de página podem ser usados na criação de subpáginas a partir daquele ramo
-  . Cada entrada deve conter um caminho absoluto e o uso de /.\* permite liberar todos os templates abaixo daquela pasta.
+- **Alias**: Cria a propriedade `sling:alias` no nó da página no repositório.
+- **Template Settings (Allowed Templates)**: Limita quais modelos de página podem ser usados na criação de subpáginas a partir daquele ramo. Cada entrada deve conter um caminho absoluto e o uso de `/*` permite liberar todos os templates abaixo daquela pasta.
 - **Authentication Requirement**:
   - Permite restringir o acesso à página exigindo login.
   - A página de login especifica deve ser publica e nao pode exigir autenticação.
